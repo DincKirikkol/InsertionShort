@@ -1,7 +1,7 @@
 # InsertionShort
 
 
-Insertion-Sort
+Insertion- Sort
 Insertion Sort is a sorting algorithm used in Computer Science. Time complexity cases of insertion sort are:
 
 Best Case Complexity O(n)
